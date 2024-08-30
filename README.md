@@ -5,7 +5,8 @@
 what coding language is this
 how can i use emojis
  [![haha](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://github.com/ap-csa-2024-2025/intro-assignment-MXNVWIWNVNMX)
-
+im messing around haha
+press ctrl s again
 ## Instructions
 1. Fork the assignment from GitHub classroom. applel sauce
 2. Open Visual Studio (VS) Code on the computer. fart
@@ -21,11 +22,4 @@ Answer the questions below
 * Ask Mr. Vu anything: familiar
 * List your sports and extracurriculars you participate in
 * i added this wait what
-* 
-* 
-* 
-* 
-* 
-* 
-* 
 <size=500>"hello"</size>
