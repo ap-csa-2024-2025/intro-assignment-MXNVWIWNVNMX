@@ -11,12 +11,9 @@
 6. Commit your files with a commit message.
 7. Synchronize your repository.
 
-## About Me
+## About Me to get more
 Answer the questions below
 * Something interesting about me is
-* Ask Mr. Vu anything:
+* Ask Mr. Vu anything: familiar
 * List your sports and extracurriculars you participate in
-making more changes
-commit again
-push agian
-sync again hheehehe
+tring
