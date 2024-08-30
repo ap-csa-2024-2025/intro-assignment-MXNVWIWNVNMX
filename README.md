@@ -21,3 +21,11 @@ Answer the questions below
 * Ask Mr. Vu anything: familiar
 * List your sports and extracurriculars you participate in
 * i added this wait what
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+<color=red> hello</color>
